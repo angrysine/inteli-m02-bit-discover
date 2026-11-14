@@ -1,3 +1,31 @@
+# BIT Discover
+
+> Portfólio de [Alberto da Rocha Miranda](https://github.com/angrysine) · Inteli · Módulo 2 · 2022
+
+## O que foi desenvolvido
+
+Plataforma web para facilitar o acesso de mulheres a oportunidades em tecnologia, conectando candidatas e empresas por meio de cadastro padronizado e combinação de perfis.
+
+**Parceiro / contexto:** Programaria.
+
+## Tecnologias e conceitos
+
+Node.js · JavaScript · HTML / CSS.
+
+## Participação e créditos
+
+Participei deste projeto como integrante da equipe no Inteli — Instituto de Tecnologia e Liderança. A solução é um trabalho coletivo; este fork organiza sua apresentação no meu portfólio e preserva os autores, créditos, licenças e materiais originais.
+
+[Repositório de origem](https://github.com/2022M2T1-Inteli/Programaria) · [Portfólio](https://angrysine.github.io/)
+
+## Documentação e execução
+
+As instruções técnicas e os materiais da equipe foram preservados abaixo e nas pastas do repositório. Esta atualização organiza a apresentação do projeto acadêmico e não representa uma nova validação de execução.
+
+---
+
+## Documentação original da equipe
+
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
